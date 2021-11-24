@@ -57,7 +57,7 @@ function settime(){
        
     }
     if(naptime==hourr){
-        document.getElementById("right-bottom-container").style.backgroundImage="url(./assets/goodnight_image.svg)";
+        document.getElementById("right-bottom-container").style.backgroundImage="url(./goodnight_image.svg)";
         document.getElementById("text-container").innerHTML="GOOD NIGHT !!";
     
     }
